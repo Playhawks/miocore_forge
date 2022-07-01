@@ -1,4 +1,26 @@
 {
   "item.miocore.aluminium_ingot": "Aluminium Barren",
-  "item.miocore.aluminium_nugget": "Aluminium Klumpen"
+  "item.miocore.aluminium_nugget": "Aluminium Klumpen",
+  "item.miocore.raw_aluminium": "Rohes Aluminium",
+  "item.miocore.ardite_ingot": "Ardite Barren",
+  "item.miocore.ardite_nugget": "Ardite Klumpen",
+  "item.miocore.raw_ardite": "Rohes Ardite",
+  "item.miocore.blei_ingot": "Blei Barren",
+  "item.miocore.blei_nugget": "Blei Klumpen",
+  "item.miocore.raw_blei": "Rohes Blei",
+  "item.miocore.enhanced_bone_meal": "Verbessertes Knochenmehl",
+  "item.miocore.nickel_ingot": "Nickel Barren",
+  "item.miocore.nickel_nugget": "Nickel Klumpen",
+  "item.miocore.raw_nickel": "Rohes Nickel",
+  "item.miocore.osmium_ingot": "Osmium Barren",
+  "item.miocore.osmium_nugget": "Osmium Klumpen",
+  "item.miocore.raw_osmium": "Rohes Osmium",
+  "item.miocore.platin_ingot": "Platin Barren",
+  "item.miocore.platin_nugget": "Platin Klumpen",
+  "item.miocore.raw_platin": "Rohes Platin",
+  "item.miocore.silver_ingot": "Silber Barren",
+  "item.miocore.silver_nugget": "Silber Klumpen",
+  "item.miocore.raw_silver": "Rohes Silber",
+  "item.miocore.raw_uran": "Rohes Uran",
+  "item.miocore.uran_ingot": "Uran Barren"
 }
