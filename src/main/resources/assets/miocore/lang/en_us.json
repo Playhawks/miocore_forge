@@ -22,5 +22,7 @@
   "item.miocore.silver_nugget": "Silver Nugget",
   "item.miocore.raw_silver": "Raw Silver",
   "item.miocore.raw_uran": "Raw Uran",
-  "item.miocore.uran_ingot": "Uran Ingot"
+  "item.miocore.uran_ingot": "Uran Ingot",
+
+  "block.miocore.aluminium_block": "Aluminium Block"
 }

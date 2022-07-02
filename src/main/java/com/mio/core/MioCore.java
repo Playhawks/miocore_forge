@@ -1,5 +1,6 @@
 package com.mio.core;
 
+import com.mio.core.block.ModBlocks;
 import com.mio.core.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Block;
@@ -31,6 +32,7 @@ public class MioCore
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 

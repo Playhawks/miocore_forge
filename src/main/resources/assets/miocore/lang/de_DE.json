@@ -22,5 +22,7 @@
   "item.miocore.silver_nugget": "Silber Klumpen",
   "item.miocore.raw_silver": "Rohes Silber",
   "item.miocore.raw_uran": "Rohes Uran",
-  "item.miocore.uran_ingot": "Uran Barren"
+  "item.miocore.uran_ingot": "Uran Barren",
+
+  "block.miocore.aluminium_block": "Aluminium Block"
 }
