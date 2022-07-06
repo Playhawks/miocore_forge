@@ -1,0 +1,8 @@
+{
+  "variants": {
+
+    "": {"model":  "miocore:block/ardite_block"}
+
+  }
+
+}
