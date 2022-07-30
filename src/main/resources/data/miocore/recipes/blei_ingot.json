@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "miocore:blei_block"
+    }
+  ],
+  "result": {
+    "item": "miocore:blei_ingot",
+    "count": 9
+  }
+}
