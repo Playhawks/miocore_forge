@@ -44,6 +44,9 @@
   "block.miocore.silver_ore": "Silverore",
   "block.miocore.uran_ore": "Uranore",
   "block.miocore.nether_osmium_ore": "Osmiumore",
-  "block.miocore.osmium_block": "Osmiumblock"
+  "block.miocore.osmium_block": "Osmiumblock",
+
+
+  "itemGroup.miocoretab": "Most in One Core"
 
 }
