@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "miocore:aluminium_block"
+    }
+  ],
+  "result": {
+    "item": "miocore:aluminium_ingot",
+    "count": 9
+  }
+}
