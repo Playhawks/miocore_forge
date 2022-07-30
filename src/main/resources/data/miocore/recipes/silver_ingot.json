@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "copper_ingot",
+  "ingredients": [
+    {
+      "item": "miocore:silver_block"
+    }
+  ],
+  "result": {
+    "item": "miocore:silver_ingot",
+    "count": 9
+  }
+}
