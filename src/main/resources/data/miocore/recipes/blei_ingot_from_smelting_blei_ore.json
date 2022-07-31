@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "group": "aluminium_ingot",
+  "group": "blei_ingot",
   "ingredient": {
     "item": "miocore:blei_ore"
   },

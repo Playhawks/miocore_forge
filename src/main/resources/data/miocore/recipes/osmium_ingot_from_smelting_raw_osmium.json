@@ -1,10 +1,10 @@
 {
   "type": "minecraft:smelting",
-  "group": "blei_ingot",
+  "group": "osmium_ingot",
   "ingredient": {
-    "item": "miocore:raw_blei"
+    "item": "miocore:raw_osmium"
   },
-  "result": "miocore:blei_ingot",
+  "result": "miocore:osmium_ingot",
   "experience": 0.7,
   "cookingtime": 200
 }

@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "group": "blei_ingot",
   "ingredient": {
-    "item": "miocore:raw_blei"
+    "item": "miocore:deepslate_blei_ore"
   },
   "result": "miocore:blei_ingot",
   "experience": 0.7,

@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "silver_ingot",
+  "group": "platin_ingot",
   "ingredients": [
     {
-      "item": "miocore:silver_block"
+      "item": "miocore:platin_ingot"
     }
   ],
   "result": {
-    "item": "miocore:silver_ingot",
+    "item": "miocore:platin_nugget",
     "count": 9
   }
 }

@@ -2,7 +2,7 @@
   "type": "minecraft:smelting",
   "group": "silver_ingot",
   "ingredient": {
-    "item": "miocore:silver_ore"
+    "item": "miocore:deepslate_silver_ore"
   },
   "result": "miocore:silver_ingot",
   "experience": 0.7,

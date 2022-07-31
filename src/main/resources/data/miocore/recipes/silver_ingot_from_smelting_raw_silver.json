@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "group": "copper_ingot",
+  "group": "silver_ingot",
   "ingredient": {
     "item": "miocore:raw_silver"
   },

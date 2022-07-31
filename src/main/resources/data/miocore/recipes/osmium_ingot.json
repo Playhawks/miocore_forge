@@ -1,13 +1,13 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "silver_ingot",
+  "group": "osmium_ingot",
   "ingredients": [
     {
-      "item": "miocore:silver_block"
+      "item": "miocore:osmium_block"
     }
   ],
   "result": {
-    "item": "miocore:silver_ingot",
+    "item": "miocore:osmium_ingot",
     "count": 9
   }
 }

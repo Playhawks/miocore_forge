@@ -1,10 +1,10 @@
 {
   "type": "minecraft:smelting",
-  "group": "blei_ingot",
+  "group": "uran_ingot",
   "ingredient": {
-    "item": "miocore:raw_blei"
+    "item": "miocore:deepslate_uran_ore"
   },
-  "result": "miocore:blei_ingot",
+  "result": "miocore:uran_ingot",
   "experience": 0.7,
   "cookingtime": 200
 }
