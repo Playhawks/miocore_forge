@@ -1,6 +1,5 @@
 {
   "type": "minecraft:smelting",
-  "group": "ardite_ingot",
   "ingredient": {
     "item": "miocore:raw_ardite"
   },

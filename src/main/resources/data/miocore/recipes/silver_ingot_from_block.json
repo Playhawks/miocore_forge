@@ -2,11 +2,11 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "miocore:silver_ingot"
+      "item": "miocore:silver_block"
     }
   ],
   "result": {
-    "item": "miocore:silver_nugget",
+    "item": "miocore:silver_ingot",
     "count": 9
   }
 }

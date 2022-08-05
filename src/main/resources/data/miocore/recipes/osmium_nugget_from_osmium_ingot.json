@@ -1,6 +1,5 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "group": "osmium_ingot",
   "ingredients": [
     {
       "item": "miocore:osmium_ingot"
